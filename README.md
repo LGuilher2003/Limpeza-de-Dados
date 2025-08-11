@@ -1,4 +1,5 @@
 1. TOP 5 PRODUTOS POR FATURAMENTO MENSAL
+2. 
 ==================================================
 
 Janeiro 2022:
@@ -86,6 +87,7 @@ Dezembro 2022:
 5. MOCHILA - 1.194.878,68
 
 2. TOP 5 PRODUTOS COM MENOS CLIQUES POR MÊS
+3. 
 ==================================================
 
 Janeiro 2022:
@@ -173,6 +175,7 @@ Dezembro 2022:
 5. CARRO - 0,00
 
 3. TOP 5 PRODUTOS COM MAIOR TICKET MÉDIO NO ANO
+4. 
 ==================================================
 1. MOEDA - R$ 330,91
 2. LIVRO - R$ 294,23
@@ -181,7 +184,9 @@ Dezembro 2022:
 5. CELULAR - R$ 216,33
 
 4. INSIGHTS ADICIONAIS
+5. 
 ==================================================
+
 Insight Positivo:
 O maior pico de vendas ocorre em novembro, no mês de Black Friday, com um aumento significativo no faturamento.
 
