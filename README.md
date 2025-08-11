@@ -1,190 +1,308 @@
-Saida do output :
 1. TOP 5 PRODUTOS POR FATURAMENTO MENSAL
-==================================================
+Janeiro 2022
 
-Janeiro 2022:
-1. CELULAR - 4.255.239,87
-2. DISCO - 1.998.303,27
-3. XADREZ - 1.838.606,46
-4. BOTA - 898.104,33
-5. LANTERNA - 876.921,55
+CELULAR - R$ 4.255.239,87
 
-Fevereiro 2022:
-1. CELULAR - 3.904.372,94
-2. DISCO - 3.051.672,03
-3. XADREZ - 1.147.119,09
-4. DADO - 864.063,92
-5. BOTA - 795.287,49
+DISCO - R$ 1.998.303,27
 
-Março 2022:
-1. CELULAR - 5.880.210,50
-2. DISCO - 3.906.156,23
-3. XADREZ - 1.816.413,61
-4. DADO - 997.602,17
-5. LANTERNA - 854.079,78
+XADREZ - R$ 1.838.606,46
 
-Abril 2022:
-1. CELULAR - 5.558.001,90
-2. DISCO - 3.117.898,05
-3. XADREZ - 1.819.107,97
-4. DADO - 977.555,54
-5. BOTA - 897.180,55
+BOTA - R$ 898.104,33
 
-Maio 2022:
-1. CELULAR - 5.230.236,40
-2. DISCO - 3.744.377,48
-3. XADREZ - 1.310.457,16
-4. BOTA - 1.055.777,27
-5. MOCHILA - 729.601,76
+LANTERNA - R$ 876.921,55
 
-Junho 2022:
-1. CELULAR - 8.059.199,30
-2. DISCO - 2.410.629,61
-3. XADREZ - 1.357.840,79
-4. DADO - 1.094.641,40
-5. BOTA - 1.022.821,93
+Fevereiro 2022
 
-Julho 2022:
-1. CELULAR - 11.050.718,80
-2. DISCO - 3.328.655,46
-3. BOTA - 1.934.700,44
-4. XADREZ - 1.869.779,97
-5. DADO - 914.951,95
+CELULAR - R$ 3.904.372,94
 
-Agosto 2022:
-1. CELULAR - 10.051.296,30
-2. DISCO - 3.462.975,74
-3. XADREZ - 1.755.535,04
-4. BOTA - 1.076.785,34
-5. DADO - 853.278,20
+DISCO - R$ 3.051.672,03
 
-Setembro 2022:
-1. CELULAR - 9.894.818,90
-2. DISCO - 3.717.626,52
-3. XADREZ - 2.221.463,00
-4. BOTA - 1.299.152,72
-5. MOCHILA - 887.409,01
+XADREZ - R$ 1.147.119,09
 
-Outubro 2022:
-1. CELULAR - 6.888.717,20
-2. DISCO - 3.841.804,73
-3. XADREZ - 1.507.629,55
-4. BOTA - 1.269.196,65
-5. LANTERNA - 607.781,93
+DADO - R$ 864.063,92
 
-Novembro 2022:
-1. CELULAR - 21.614.218,50
-2. DISCO - 5.781.839,70
-3. XADREZ - 3.377.881,39
-4. BOTA - 2.731.213,04
-5. MOCHILA - 1.298.648,23
+BOTA - R$ 795.287,49
 
-Dezembro 2022:
-1. CELULAR - 9.627.704,30
-2. DISCO - 2.569.166,13
-3. BOTA - 1.391.158,25
-4. XADREZ - 1.381.284,41
-5. MOCHILA - 1.194.878,68
+Março 2022
+
+CELULAR - R$ 5.880.210,50
+
+DISCO - R$ 3.906.156,23
+
+XADREZ - R$ 1.816.413,61
+
+DADO - R$ 997.602,17
+
+LANTERNA - R$ 854.079,78
+
+Abril 2022
+
+CELULAR - R$ 5.558.001,90
+
+DISCO - R$ 3.117.898,05
+
+XADREZ - R$ 1.819.107,97
+
+DADO - R$ 977.555,54
+
+BOTA - R$ 897.180,55
+
+Maio 2022
+
+CELULAR - R$ 5.230.236,40
+
+DISCO - R$ 3.744.377,48
+
+XADREZ - R$ 1.310.457,16
+
+BOTA - R$ 1.055.777,27
+
+MOCHILA - R$ 729.601,76
+
+Junho 2022
+
+CELULAR - R$ 8.059.199,30
+
+DISCO - R$ 2.410.629,61
+
+XADREZ - R$ 1.357.840,79
+
+DADO - R$ 1.094.641,40
+
+BOTA - R$ 1.022.821,93
+
+Julho 2022
+
+CELULAR - R$ 11.050.718,80
+
+DISCO - R$ 3.328.655,46
+
+BOTA - R$ 1.934.700,44
+
+XADREZ - R$ 1.869.779,97
+
+DADO - R$ 914.951,95
+
+Agosto 2022
+
+CELULAR - R$ 10.051.296,30
+
+DISCO - R$ 3.462.975,74
+
+XADREZ - R$ 1.755.535,04
+
+BOTA - R$ 1.076.785,34
+
+DADO - R$ 853.278,20
+
+Setembro 2022
+
+CELULAR - R$ 9.894.818,90
+
+DISCO - R$ 3.717.626,52
+
+XADREZ - R$ 2.221.463,00
+
+BOTA - R$ 1.299.152,72
+
+MOCHILA - R$ 887.409,01
+
+Outubro 2022
+
+CELULAR - R$ 6.888.717,20
+
+DISCO - R$ 3.841.804,73
+
+XADREZ - R$ 1.507.629,55
+
+BOTA - R$ 1.269.196,65
+
+LANTERNA - R$ 607.781,93
+
+Novembro 2022
+
+CELULAR - R$ 21.614.218,50
+
+DISCO - R$ 5.781.839,70
+
+XADREZ - R$ 3.377.881,39
+
+BOTA - R$ 2.731.213,04
+
+MOCHILA - R$ 1.298.648,23
+
+Dezembro 2022
+
+CELULAR - R$ 9.627.704,30
+
+DISCO - R$ 2.569.166,13
+
+BOTA - R$ 1.391.158,25
+
+XADREZ - R$ 1.381.284,41
+
+MOCHILA - R$ 1.194.878,68
 
 2. TOP 5 PRODUTOS COM MENOS CLIQUES POR MÊS
-==================================================
+Janeiro 2022
 
-Janeiro 2022:
-1. ÓCULOS - 0,00
-2. TÊNIS - 0,00
-3. RÉGUA - 0,00
-4. MOEDA - 0,00
-5. CANETA - 0,00
+ÓCULOS - 0,00
 
-Fevereiro 2022:
-1. MOEDA - 0,00
-2. RÁDIO - 0,00
-3. RÉGUA - 0,00
-4. CARRO - 0,00
-5. CANETA - 134,00
+TÊNIS - 0,00
 
-Março 2022:
-1. MOEDA - 0,00
-2. RÁDIO - 0,00
-3. RÉGUA - 0,00
-4. ÓCULOS - 0,00
-5. CARRO - 0,00
+RÉGUA - 0,00
 
-Abril 2022:
-1. MEIA - 0,00
-2. MOEDA - 0,00
-3. ÓCULOS - 0,00
-4. CARRO - 0,00
-5. TELEVISÃO - 171,00
+MOEDA - 0,00
 
-Maio 2022:
-1. MOEDA - 0,00
-2. RÁDIO - 0,00
-3. RÉGUA - 0,00
-4. CARRO - 0,00
-5. MOUSE - 206,00
+CANETA - 0,00
 
-Junho 2022:
-1. MOEDA - 0,00
-2. CANETA - 0,00
-3. CARRO - 0,00
-4. TECLADO - 82,00
-5. BICICLETA - 232,00
+Fevereiro 2022
 
-Julho 2022:
-1. MOEDA - 0,00
-2. RÁDIO - 0,00
-3. ÓCULOS - 0,00
-4. CARRO - 0,00
-5. CANETA - 0,00
+MOEDA - 0,00
 
-Agosto 2022:
-1. MOEDA - 0,00
-2. ÓCULOS - 0,00
-3. CARRO - 0,00
-4. MOUSE - 74,00
-5. CANETA - 220,00
+RÁDIO - 0,00
 
-Setembro 2022:
-1. MOEDA - 0,00
-2. CARRO - 0,00
-3. CANETA - 0,00
-4. MOUSE - 285,00
-5. TELEVISÃO - 3.126,00
+RÉGUA - 0,00
 
-Outubro 2022:
-1. MOEDA - 0,00
-2. RÁDIO - 0,00
-3. CARRO - 0,00
-4. CANETA - 103,00
-5. BOLSA - 110,00
+CARRO - 0,00
 
-Novembro 2022:
-1. MOEDA - 0,00
-2. CARRO - 0,00
-3. MOUSE - 63,00
-4. CANETA - 250,00
-5. TELEVISÃO - 1.758,00
+CANETA - 134,00
 
-Dezembro 2022:
-1. MOEDA - 0,00
-2. RÁDIO - 0,00
-3. CANETA - 0,00
-4. PIANO - 0,00
-5. CARRO - 0,00
+Março 2022
+
+MOEDA - 0,00
+
+RÁDIO - 0,00
+
+RÉGUA - 0,00
+
+ÓCULOS - 0,00
+
+CARRO - 0,00
+
+Abril 2022
+
+MEIA - 0,00
+
+MOEDA - 0,00
+
+ÓCULOS - 0,00
+
+CARRO - 0,00
+
+TELEVISÃO - 171,00
+
+Maio 2022
+
+MOEDA - 0,00
+
+RÁDIO - 0,00
+
+RÉGUA - 0,00
+
+CARRO - 0,00
+
+MOUSE - 206,00
+
+Junho 2022
+
+MOEDA - 0,00
+
+CANETA - 0,00
+
+CARRO - 0,00
+
+TECLADO - 82,00
+
+BICICLETA - 232,00
+
+Julho 2022
+
+MOEDA - 0,00
+
+RÁDIO - 0,00
+
+ÓCULOS - 0,00
+
+CARRO - 0,00
+
+CANETA - 0,00
+
+Agosto 2022
+
+MOEDA - 0,00
+
+ÓCULOS - 0,00
+
+CARRO - 0,00
+
+MOUSE - 74,00
+
+CANETA - 220,00
+
+Setembro 2022
+
+MOEDA - 0,00
+
+CARRO - 0,00
+
+CANETA - 0,00
+
+MOUSE - 285,00
+
+TELEVISÃO - 3.126,00
+
+Outubro 2022
+
+MOEDA - 0,00
+
+RÁDIO - 0,00
+
+CARRO - 0,00
+
+CANETA - 103,00
+
+BOLSA - 110,00
+
+Novembro 2022
+
+MOEDA - 0,00
+
+CARRO - 0,00
+
+MOUSE - 63,00
+
+CANETA - 250,00
+
+TELEVISÃO - 1.758,00
+
+Dezembro 2022
+
+MOEDA - 0,00
+
+RÁDIO - 0,00
+
+CANETA - 0,00
+
+PIANO - 0,00
+
+CARRO - 0,00
 
 3. TOP 5 PRODUTOS COM MAIOR TICKET MÉDIO NO ANO
-==================================================
-1. MOEDA - R$ 330,91
-2. LIVRO - R$ 294,23
-3. APITO - R$ 276,91
-4. CACHIMBO - R$ 241,28
-5. CELULAR - R$ 216,33
+MOEDA - R$ 330,91
+
+LIVRO - R$ 294,23
+
+APITO - R$ 276,91
+
+CACHIMBO - R$ 241,28
+
+CELULAR - R$ 216,33
 
 4. INSIGHTS ADICIONAIS
-==================================================
-Insight Positivo:
+Insight Positivo
 O maior pico de vendas ocorre em novembro, no mês de Black Friday, com um aumento significativo no faturamento.
 
-Insight Negativo:
-Bicicleta vem sendo disparado o produto dando o maior prejuízo, total investido R$280.374,72 e receita de R$0,00.
+Insight Negativo
+Bicicleta vem sendo disparado o produto dando o maior prejuízo, total investido R$ 280.374,72 e receita de R$ 0,00.
+
