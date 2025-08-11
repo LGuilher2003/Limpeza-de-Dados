@@ -1,3 +1,6 @@
+Segue Abaixo o Output do código com as respostas das perguntas
+
+
 -1. TOP 5 PRODUTOS POR FATURAMENTO MENSAL
 
 ==================================================
